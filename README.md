@@ -17,13 +17,13 @@ In this template repository we have the development environment and base set and
 
 In this "choose your own adventure" template portfolio, we have a [React](https://reactjs.org/) based web application ready for you to easily customize and deploy using only your web browser.
 
-![JavaScript profile web application](/__images__/js-portfolio-site.gif "JavaScript profile web application")
+<!--![JavaScript profile web application](/__images__/js-portfolio-site.gif "JavaScript profile web application")-->
 
 ### Quick Start
 
 1. Click the **Use this Template** button and then **Create a new repository** as can be seen in the image below.
    Note: Make sure you've signed in to GitHub otherwise, you wouldn't see the **Use this Template** button.
-![JavaScript profile web application](/__images__/use-this-template.png "Use this Template Image Guide")
+<!--![JavaScript profile web application](/__images__/use-this-template.png "Use this Template Image Guide")-->
 1. Select the repository owner (e.g. your GitHub account)
 1. Enter a unique name for your new repository
 1. Click the **Code** button
@@ -205,7 +205,7 @@ With your project open in Codespaces:
     1. **Location of application code**: `/`
     1. **Build location**: `dist`
 1. When complete you will see a notification at the bottom of your screen, and a new GitHub Action workflow will be added to your project. If you click “Open Action in GitHub” you will see the action that was created for you, and it is currently running.
-![Azure Static Web App deploy](/__images__/swa-deploy.gif "Azure Static Web App deploy")
+<!--![Azure Static Web App deploy](/__images__/swa-deploy.gif "Azure Static Web App deploy")-->
 1. To view the status of your deployment, find your Static Web App resource in the Azure tab in the VS Code left side bar.
 1. Once deployment is complete, you can view your brand new new publicly accessible application by right clicking on your Static Web App resource and selecting "Browse Site".
 
@@ -227,7 +227,7 @@ With your project open in Codespaces:
 1. Within the terminal window run `npm run deploy`. This will first run the pre-deploy script to build the project, followed by the deploy script that will push those bundled files to a new branch on your repo (gh-pages) that will be used for you GitHub Pages site.
 1. When completed, within your repo, go to Settings and Pages. There you will see that a page has been set up to for you against the gh-pages branch, and you should see the URL (that should match the “homepage” value you set in package.json)
 
-![Azure Static Web App deploy](/__images__/github-pages-deploy.gif "Azure Static Web App deploy")
+<!--![Azure Static Web App deploy](/__images__/github-pages-deploy.gif "Azure Static Web App deploy")-->
 
 > 🤩 **Bonus**: [Setup a custom domain for your GitHub pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 
